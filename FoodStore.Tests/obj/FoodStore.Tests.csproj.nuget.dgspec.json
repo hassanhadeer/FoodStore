@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore.Tests\\FoodStore.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore.Tests\\FoodStore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore.Tests\\FoodStore.Tests.csproj",
+        "projectName": "FoodStore.Tests",
+        "projectPath": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore.Tests\\FoodStore.Tests.csproj",
+        "packagesPath": "C:\\Users\\Hassan Abu Hadeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hassan Abu Hadeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\FoodStore.csproj": {
+                "projectPath": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\FoodStore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.99, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\FoodStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\FoodStore.csproj",
+        "projectName": "FoodStore",
+        "projectPath": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\FoodStore.csproj",
+        "packagesPath": "C:\\Users\\Hassan Abu Hadeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hassan Abu Hadeer\\OneDrive - triOS College\\ASP.NetCore\\files\\myFile\\Project\\FoodStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hassan Abu Hadeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\bower.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\FoodStore.deps.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\FoodStore.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\FoodStore.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\FoodStore.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\bin\Release\netcoreapp2.0\FoodStore.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\FoodStore.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\ASP.NetCore\files\myFile\Project\FoodStore\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/open-iconic-master/" />
+    <title>FoodStore</title>
+    <style>
+        .navMenu{
+            margin-left:25px;
+            color:#fff;
+        }
+        .mainStyle {
+            background: #ccc;
+            height: 100vh;
+        }
+        #logo{
+            width:64px;
+            margin-left:20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="mainStyle">
+        <div class="navbar navbar-dark bg-dark" role="navigation">
+            <div class="row">
+                <a href="#" title="home">
+                    <img id="logo" src="~/images/foodStoreLogo.png" title="Logo" alt="Food Store Logo">
+                </a>
+                <a class="col navbar-brand" href="#">FOOD STORE</a>
+            </div>
+
+            <div class="col-4 text-right">
+                @await Component.InvokeAsync("CartSummary")
+            </div>
+        </div>
+
+        <div class="row m-1 p-1">
+            <div id="categories" class="col-3">
+                @await Component.InvokeAsync("NavigationMenu")
+            </div>
+            <div class="col-9">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

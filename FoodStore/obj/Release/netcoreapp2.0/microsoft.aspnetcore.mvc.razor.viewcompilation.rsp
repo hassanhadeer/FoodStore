@@ -1,0 +1,24 @@
+c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=foodstore
+--content-root=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Account\Login.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Admin\Edit.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Admin\Index.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Cart\Index.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Error\Error.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Home\List.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Order\Checkout.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Order\Completed.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Order\List.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Product\List.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\Error.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\ProductSummary.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\_AdminLayout.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\_Layout.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\Shared\_ViewStart.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\_ViewImports.cshtml
+--file=c:\users\hassan abu hadeer\onedrive - trios college\asp.netcore\files\myfile\project\foodstore\Views\_ViewStart.cshtml
